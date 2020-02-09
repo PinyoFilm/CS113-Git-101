@@ -1,0 +1,23 @@
+week7git
+lab
+การใช้งานgithub
+เข้าไปที่ command สร้างโดยใช้ mkdir
+การย้ายไดฟ์ d: การทำการย้ายมาไดฟ์ d
+cd ค่ำสั่งการเข้าออกfolder เช่น cd... 
+ถ้าจะออก ก็ cd /
+การสร้างgit init ต้องทำทุกครั้งเมื่อสร้างใหม่
+git status บอกสถานะการทำงานในตอนนั้น
+การนำไฟล์เข้า git add .....
+การระบุตัวตน commit
+git config user.name "Your Name"
+git config user.email "yourmail@ku.th"
+หากเป็น คอมตัวเอง
+git config --global user.name "Your Name"
+git config --global user.email "yourmail@ku.th"
+commit ทำเพียงครั้งเดียวเท่านั้น
+การดูจุด checkpointว่าทำอะไรอยู่ git log --all --decorate --oneline --graph
+การเชื่อมกับ github git remote https://github.com/PinyoFilm/CS113-Git-101.git
+การเอาขึ้นบนgithub git push -u origin master
+อย่าลืมทุกครั้งต้อง git log --all --decorate --oneline --graph
+
+
